@@ -1,0 +1,4 @@
+com/disys/springbootAPI/SpringbootApiApplicationTests.class
+com/disys/springbootAPI/StatusControllerTest.class
+com/disys/springbootAPI/LetterControllerTest.class
+com/disys/springbootAPI/PackageControllerTest.class
